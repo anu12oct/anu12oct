@@ -40,8 +40,8 @@
 
 ## 🏆 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)  
-[![TakeUForward](https://img.shields.io/badge/TakeUForward-009688?style=flat&logo=code&logoColor=white)](https://takeuforward.org/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sharma12oct/)  
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-009688?style=flat&logo=code&logoColor=white)](https://takeuforward.org/plus/profile/anu12oct)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-profile)
 
 ## 📚 Computer Science

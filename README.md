@@ -38,6 +38,19 @@
 - 🚀 **[Onboarding Management System](#)** - Automating hiring workflow.
 - 📌 **[Web Dev Cohort Projects](#)** - Hands-on React, Node.js & APIs.
 
+## 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)  
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-009688?style=flat&logo=code&logoColor=white)](https://takeuforward.org/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-profile)
+
+## 📚 Computer Science
+
+- **Object-Oriented Programming (OOPs)**
+- **Database Management System (DBMS)**
+- **System Design (LLD)**
+- **Computer Networks**
+
 ## 💡 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anupam-sharma-12oct/)

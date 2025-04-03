@@ -44,7 +44,7 @@
 [![TakeUForward](https://img.shields.io/badge/TakeUForward-009688?style=flat&logo=code&logoColor=white)](https://takeuforward.org/plus/profile/anu12oct)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-profile)
 
-## 📚 Computer Science
+## 📚 Computer Science Concepts
 
 - **Object-Oriented Programming (OOPs)**
 - **Database Management System (DBMS)**
